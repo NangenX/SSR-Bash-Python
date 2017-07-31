@@ -59,7 +59,7 @@ fi
 
 #Install SSR and SSR-Bash
 cd /usr/local
-git clone https://github.com/shadowsocksr/shadowsocksr.git
+git clone https://github.com/NangenX/shadowsocksr.git
 git clone https://github.com/NangenX/SSR-Bash-Python.git
 cd /usr/local/shadowsocksr
 bash initcfg.sh
